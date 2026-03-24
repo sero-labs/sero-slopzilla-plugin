@@ -7,7 +7,7 @@ SlopZilla — the kaiju-sized AI slop idea generator for Sero. Pick a complexity
 Install in **Sero → Admin → Plugins** with:
 
 ```text
-git:https://github.com/sero-ai/sero-slopzilla-plugin.git
+git:https://github.com/monobyte/sero-slopzilla-plugin.git
 ```
 
 Sero clones the source repo, installs its dependencies locally, builds the UI, and then hot-loads the plugin into the sidebar.
@@ -17,7 +17,7 @@ Sero clones the source repo, installs its dependencies locally, builds the UI, a
 Install as a Pi package:
 
 ```bash
-pi install git:https://github.com/sero-ai/sero-slopzilla-plugin.git
+pi install git:https://github.com/monobyte/sero-slopzilla-plugin.git
 ```
 
 The agent gains a `slopzilla` tool and a `/slopzilla` command.
