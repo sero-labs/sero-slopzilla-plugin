@@ -17,7 +17,7 @@ Sero clones the source repo, installs its dependencies locally, builds the UI, a
 Install as a Pi package:
 
 ```bash
-pi install npm:@sero-ai/plugin-slopzilla
+pi install git:https://github.com/sero-ai/sero-slopzilla-plugin.git
 ```
 
 The agent gains a `slopzilla` tool and a `/slopzilla` command.
