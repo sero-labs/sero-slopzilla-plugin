@@ -2,6 +2,7 @@
   "name": "@sero-ai/plugin-slopzilla",
   "version": "0.1.1",
   "description": "SlopZilla — the kaiju-sized AI slop idea generator for Sero",
+  "type": "module",
   "keywords": [
     "pi-package"
   ],
